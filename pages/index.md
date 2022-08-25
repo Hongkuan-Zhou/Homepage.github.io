@@ -9,7 +9,7 @@ permalink: /
 
 #### About Me
 
-My name is Hongkuan Zhou (周泓宽）. Currently, I am a Master's student at Technical University of Munich and major in Computer Scientist.
+My name is Hongkuan Zhou (周泓宽. Currently, I am a Master's student at Technical University of Munich and major in Computer Scientist.
 
 #### Research Interests
 
@@ -35,7 +35,7 @@ Z. Bing, **H. Zhou** et al., "Solving Robotic Manipulation with Sparse Reward Re
 
 ### Contest Experience
 
-Northwestern Europe Reginal Contest (ICPC NWERC 2020) rank 65. [Link](https://2020.nwerc.eu/)
+Northwestern Europe Reginal Contest (ICPC NWERC 2020) rank 65. [[Link]](https://2020.nwerc.eu/)
 
 QQ Browser 2021 AI Algorithm Competation, Hyper-parameter Optimization rank 15
 
