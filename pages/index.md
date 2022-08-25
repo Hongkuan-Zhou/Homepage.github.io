@@ -33,6 +33,19 @@ Z. Bing, **H. Zhou** et al., "Solving Robotic Manipulation with Sparse Reward Re
 
 - **Huawei, Munich Research Center 2022.04 - until now** Research Internship, research on secure autonomous driving technologies (access control on car operating systems, Multi-sensor fusion technologies)
 
+### Contest Experience
+
+Northwestern Europe Reginal Contest (ICPC NWERC 2020) rank 65. [Link](https://2020.nwerc.eu/)
+
+QQ Browser 2021 AI Algorithm Competation, Hyper-parameter Optimization rank 15
+
+### Project Experience
+
+Practice Course, SAP HANA, Conversational AI, Chatbot Development
+
+Practice Cource, IOS development, Health Tracking Application Development
+
+HackaTUM2021,  Accenture, Advanced Faulty Chip Detection
 
 ##### Languages
 
