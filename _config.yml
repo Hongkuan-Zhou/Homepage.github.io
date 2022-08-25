@@ -1,3 +1,51 @@
-theme: jekyll-theme-minimal
-title: Octocat's homepage
-description: Bookmark this to keep an eye on my project updates!
+# Site Settings
+url: https://hongkuan-zhou.github.io
+title: Hongkuan Zhou's Homepage
+subtitle: "Software is like sex: it's better when it's free."
+description: "Peiqin Lin's Homepage"
+keywords: Hongkuan Zhou, 周泓宽
+timezone: Europe/Berlin
+encoding: "utf-8"
+SEOTitle: Hongkuan Zhou's Homepage
+repository: Hongkuan-Zhou/Homepage
+
+# Author Settings
+author: Hongkuan Zhou
+github_username: Hongkuan-Zhou
+location: Munich, Germany
+email: hello.zhouhongkuan@gmail.com
+
+# Navigation Settings
+# navs:
+#   -
+#     href: 
+#     label: Home
+
+# RSS Settings
+RSS: true
+subscribe_rss: /feed.xml
+
+# Build Settings
+highlighter: rouge
+paginate: 10
+permalink: pretty
+gems: [jekyll-paginate]
+collections:
+    wiki:
+        output: true
+        permalink: /wiki/:path/
+        
+# Markdown Settings
+markdown: kramdown
+kramdown:
+    input: GFM
+mathjax: true
+
+# Comments Settings
+comments_provider: gitment
+gitment:
+    owner: lpq29743
+    repo: blog-comments
+    oauth:
+        client_id: 5818ceff784afe05d31c
+        client_secret: dc7e8efc044c7194cf453740f82c646aa998f206
