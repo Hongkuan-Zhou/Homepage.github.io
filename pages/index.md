@@ -33,43 +33,19 @@ Z. Bing, **H. Zhou** et al., "Solving Robotic Manipulation with Sparse Reward Re
 
 - **Huawei, Munich Research Center 2022.04 - until now** Research Internship, research on secure autonomous driving technologies (access control on car operating systems, Multi-sensor fusion technologies)
 
-#### Services
-
-##### Program Committee Member/Conference Reviewer
-
-- ACL Rolling Review
-- ACL 2021
-- AAAI 2021
-- EMNLP 2022, 2021
-- ICLR 2022
-- NeurIPS 2022
-- SocialNLP 2021
-
-##### Journal Reviewer
-
-- TALLIP
-- IEEE Access
-
-#### Skills
 
 ##### Languages
 
 - Chinese (Native)
 - English (Proficient, IELTS 6.5)
-- Chaoshan dialect (Native)
-- Cantonese (Intermediate)
+- Germany (Proficient)
 
 ##### Programming Languages
 
 - Python (Good Knowledge)
-- Java (Basic Knowledge)
-- C/C++ (Basic Knowledge)
+- Java (Good Knowledge)
+- C/C++ (Good Knowledge)
 
-#### Hobbies
-
-- Music: Queen, Pink Floyd, Led Zeppelin
-- Movie: Stanley Kubrick, Federico Fellini, Andrei Tarkovsky
-- Game: NBA2K, Sudoku
 
 <!-- ### Social
 
