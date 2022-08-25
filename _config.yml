@@ -1,19 +1,19 @@
 # Site Settings
-url: https://hongkuan-zhou.github.io
-title: Hongkuan Zhou's Homepage
+url: https://lpq29743.github.io
+title: Peiqin Lin's Homepage
 subtitle: "Software is like sex: it's better when it's free."
 description: "Peiqin Lin's Homepage"
-keywords: Hongkuan Zhou, 周泓宽
-timezone: Europe/Berlin
+keywords: 林佩勤, Peiqin Lin, 半截小丑, lpq29743
+timezone: Asia/Shanghai
 encoding: "utf-8"
-SEOTitle: Hongkuan Zhou's Homepage
-repository: Hongkuan-Zhou/Homepage
+SEOTitle: Peiqin Lin's Homepage
+repository: lpq29743/lpq29743.github.io
 
 # Author Settings
-author: Hongkuan Zhou
-github_username: Hongkuan-Zhou
-location: Munich, Germany
-email: hello.zhouhongkuan@gmail.com
+author: Peiqin Lin
+github_username: lpq29743
+location: Guangdong, China
+email: lpq29743@gmail.com
 
 # Navigation Settings
 # navs:

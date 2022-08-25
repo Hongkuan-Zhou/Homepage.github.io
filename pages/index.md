@@ -1,37 +1,44 @@
 ---
 layout: index
-title: Hongkuan Zhou's Homepage
-description: Hongkuan Zhou's Homepage
-keywords: Hongkuan Zhou, 周泓宽
+title: Peiqin Lin's Homepage
+description: Peiqin Lin's Homepage
+keywords: Peiqin Lin, 林佩勤
 comments: true
 permalink: /
 ---
 
 #### About Me
 
-My name is Hongkuan Zhou (周泓宽）. Currently, I am a Master's student at Technical University of Munich and major in Computer Scientist.
+My name is Peiqin Lin (林佩勤). Currently, I am an [ELLIS Ph.D. student](https://ellis.eu/phd-postdoc) at [the Center
+for Information and Language Processing (CIS), LMU Munich](https://schuetze.cis.lmu.de/), under the supervison of [Hinrich Schütze](https://schuetze.cis.lmu.de/team/) and [André F. T. Martins](https://andre-martins.github.io/index.html). 
 
 #### Research Interests
 
-- **Reinforcement Learning and Imitation Learning**: Robotic Arm Manipulation with Reinforcement Learning or Imitation Learning
-- **End-to-End Autonomous Driving**: Multi-sensors Fusion Technology and Control Strategies
-- **Autonomous Driving Security**: Access Control in Car Operating System
+- **Machine Translation/Multilinguality**: Parallel Corpora Alignment, Multilingual Machine Translation, Low-Resource Translation
+- **Sentiment Analysis**: Aspect Based Sentiment Analysis, Emotion Cause Analysis, Emotion-aware Dialogue System
+- **Coreference Resolution**
 
 #### Education
 
-- Technical University of Munich (Apr 2021 - ). M.S in Computer Science.
-- Technical University of Munich (Oct 2018 – Apr 2021). B.S. in Computer Science.
-- Karlsruher Institut für Technologie  (Oct 2017 – Oct 2018). MINT-Kolleg
+- LMU Munich (Oct 2021 - ). Ph.D. student in Computer Science. Supervisor: [Hinrich Schütze](https://schuetze.cis.lmu.de/team/) and [André F. T. Martins](https://andre-martins.github.io/index.html). 
+- Sun Yat-sen University (Sep 2018 – Jun 2020). M.Eng. in Software Engineering. Supervisor: [Meng Yang](https://scholar.google.com/citations?user=r2nw6DIAAAAJ&hl=en).
+- South China Normal University (Sep 2014 – Jun 2018). B.Eng. in Software Engineering.
 
-#### Publications
+#### Selected Publications
 
-Z. Bing, **H. Zhou** et al., "Solving Robotic Manipulation with Sparse Reward Reinforcement Learning via Graph-Based Diversity and Proximity," in IEEE Transactions on Industrial Electronics. [[Paper]](https://ieeexplore.ieee.org/document/9772990) [[Demo]](https://videoviewsite.wixsite.com/gc-hgg) [[Code]](https://github.com/Hongkuan-Zhou/GC-HGG)
+1. **Peiqin Lin**, Meng Yang, and Jianhuang Lai. 2021. Deep Selective Memory Network with Selective Attention and Inter-Aspect Modeling for Aspect Level Sentiment Classification. In IEEE Transactions on Audio, Speech and Language Processing (TASLP). [[Paper]](https://ieeexplore.ieee.org/document/9352558)[[Code]](https://github.com/lpq29743/DSMN-SAIM)[[Bib]](assets/file/TASLP21-DSMN-SAIM.txt)
+2. **Peiqin Lin** and Meng Yang. 2020. A Shared-Private Representation Model with Coarse-to-Fine Extraction for Target Sentiment Analysis. In Finding of Empirical Methods in Natural Language Processing (EMNLP), Virtual. [[Paper]](https://www.aclweb.org/anthology/2020.findings-emnlp.382.pdf)[[Code]](https://github.com/lpq29743/SPRM)[[Bib]](assets/files/EMNLP20-SPRM.txt)[[Note]](https://zhuanlan.zhihu.com/p/268419578)
+3. **Peiqin Lin**. 2020. A Local-Global Representation Network for Aspect Level Sentiment Analysis. Master Thesis (Sun Yat-sen University Outstanding Thesis Award).
+4. **Peiqin Lin** and Meng Yang. 2020. Hierarchical Attention Network with Pairwise Loss for Chinese Zero Pronoun Resolution. In AAAI Conference on Artificial Intelligence (AAAI), New York, USA. [[Paper]](https://ojs.aaai.org//index.php/AAAI/article/view/6352)[[Code]](https://github.com/lpq29743/HAN-PL)[[Slides]](assets/files/AAAI20-HAN-PL.pdf)[[Bib]](assets/files/AAAI20-HAN-PL.txt)[[Note]](https://zhuanlan.zhihu.com/p/151387067)
+5. **Peiqin Lin**, Meng Yang, and Jianhuang Lai. 2019. Deep Mask Memory Networks with Semantic Dependency and Context Moment for Aspect-based Sentiment Analysis. In International Joint Conference on Artificial Intelligence (IJCAI), Macao, China. [[Paper]](https://www.ijcai.org/Proceedings/2019/0707.pdf)[[Code]](https://github.com/lpq29743/DMMN-SDCM)[[Slides]](assets/files/IJCAI19-DMMN-SDCM.pdf)[[Bib]](assets/files/IJCAI19-DMMN-SDCM.txt)[[Note]](https://zhuanlan.zhihu.com/p/150462314)
+
+See more in [my publications](https://lpq29743.github.io/publications/).
 
 #### Empolyment
 
-- **Technical University Munich 2019.10 - 2021.04** Tutor of Lectures 'Analysis for Informatics', 'Fundamentals of Algorithms and Data Structure', and 'Discrete Structure'
-
-- **Huawei, Munich Research Center 2022.04 - until now** Research Internship, research on secure autonomous driving technologies (access control on car operating systems, Multi-sensor fusion technologies)
+- Hong Kong Polytechnic University (Apr 2021 - Sep 2021). Research Assistant on Emotion-aware Dialogue System. Advisor: [Wenjie Li](http://www4.comp.polyu.edu.hk/~cswjli/).
+- Tencent (Jul 2019 – Aug 2019). Research Intern on Keyphrase Extraction.
+- Qibot (May 2018 – Aug 2018). Research Intern on Text Classification.
 
 #### Services
 
