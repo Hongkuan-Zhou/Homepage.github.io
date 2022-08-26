@@ -47,6 +47,7 @@ Z. Bing, **H. Zhou** et al., "Solving Robotic Manipulation with Sparse Reward Re
 - Practice Course, **SAP HANA**, Conversational AI, Chatbot Development
 
 - Practice Course, IOS development, Health Tracking Application Development
+
 - HackaTUM2021,  **Accenture**, Advanced Faulty Chip Detection
 
 ##### Languages
