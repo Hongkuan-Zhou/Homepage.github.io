@@ -9,7 +9,7 @@ permalink: /
 
 #### About Me
 
-My name is Hongkuan Zhou (周泓宽). Currently, I am a Master's student at Technical University of Munich and major in Computer Scientist.
+My name is Hongkuan Zhou (周泓宽). Currently, I am a Master's student at Technical University of Munich and major in Computer Science.
 
 #### Research Interests
 
