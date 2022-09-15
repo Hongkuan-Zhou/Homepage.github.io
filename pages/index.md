@@ -38,7 +38,7 @@ Z. Bing, **H. Zhou** et al., "Solving Robotic Manipulation with Sparse Reward Re
 
 ### Contest Experience
 
-- Northwestern Europe Reginal Contest (ICPC NWERC 2020) rank 65. [[Link]](https://2020.nwerc.eu/)
+- Northwestern Europe Reginal Contest (ICPC NWERC 2020) rank 65. [[Link]](https://2020.nwerc.eu/) [[ScoreBoard]](https://2020.nwerc.eu/standings/)
 
 - QQ Browser 2021 AI Algorithm Competition, Hyper-parameter Optimization rank 15
 
