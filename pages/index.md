@@ -9,8 +9,7 @@ permalink: /
 
 #### About Me
 
-My name is Hongkuan Zhou (周泓宽). Currently, I am a Master's student at Technical University of Munich and major in Computer Science.
-
+I am Hongkuan Zhou, and I obtained my master's degree from the Technical University of Munich, specialising in Computer Science. Throughout my academic journey, I have developed a keen interest in areas such as Robotic Manipulation and Perception, End-to-End Autonomous Driving Technologies, and Autonomous Driving Security.
 #### Research Interests
 
 - **Reinforcement Learning and Imitation Learning**: Robotic Arm Manipulation with Reinforcement Learning or Imitation Learning
